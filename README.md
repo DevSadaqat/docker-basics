@@ -11,16 +11,6 @@ What is Docker
 - Virtualisation software that makes developing and deploying applications easier
 - It packages app with all necessary dependencies, configuration, system tools and runtime into one container
 
-Features:
-
-- Environment, Typescript, Nodemon setup
-- MongoDB & Mongoose connect, Database creation
-- Controllers creation
-- Middlewares creation
-- Cookie based authentication
-- Postman testing
-- Create, Read, Update
-
 ### Prerequisites
 
 **Node version 14.x**
@@ -54,7 +44,7 @@ docker run -d -p 3000:3000 node-app:1.0
 ## Navigate to local host 3000
 
 ```shell
-(http://localhost:3000/)
+http://localhost:3000/
 ```
 
 ## Open your terminal and type following to see the running docker container
