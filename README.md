@@ -25,10 +25,6 @@ npm i
 
 [Docker Installation link](https://docs.docker.com/get-docker/)
 
-```js
-const MONGO_URL = ''; // DB URI
-```
-
 ### Build Docker Image on your local
 
 ```shell
